@@ -1,6 +1,6 @@
 # IT ACADEMY BOOSTRAP WEBSITE
 
-## Develop a Homepage using the Boostrap framework 
+## Homepage with Boostrap 
 
 ![Boostrap github-02](https://user-images.githubusercontent.com/48102806/106185276-e6d13a80-61a2-11eb-8ae6-19d5f5e7b537.jpg)
 
@@ -12,6 +12,7 @@
 ### [Codesandbox](https://codesandbox.io/s/brave-mclean-tocpt) ⌨️
 
 ## Getting started 🚀
+Develop a Homepage using the Boostrap framework 
 
 #### LEVEL :one:
 
